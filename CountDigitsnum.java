@@ -10,6 +10,9 @@ public class CountDigitsnum {
             count++;         // increase count
         }
 
+               System.out.println("pamu");
+
+       
         System.out.println("Number of digits: " + count);
     }
 }
